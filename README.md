@@ -1,1 +1,1 @@
-## This repository contains jupyter notebook scripts for scanning stocks with momentum, volatility and moving average filters.
+## This repository contains jupyter notebook script for scanning stocks with rate of change(momentum) filter.
